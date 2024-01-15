@@ -18,7 +18,7 @@ Ademas, se han localizado 3 zonas fuertemente afectadas tanto en origen como en 
   - Al igual que la Antartida, tiene tecnologia de conexión y poco personal, pero desde el ùiltimo ataque sufrido en uno de sus         centros de investigación en 2023, Reino Unido quiere aumentar los niveles de ciberseguridad en las Islas.
 3.- Zona del cuerno de Africa, Oriente Medio, India Ucrania, Biolorusia y Rusia, siendo reseñable que con los datos utilizados los paises mas calientes en ciberataques son Ucrania, Rusia, Somalia y Yemen.
 
-![image](https://github.com/vicevil77/EDA_CYBERWARFARE/assets/120662253/a4c4d3a0-da9e-420c-9f18-afc35344131f)
+![image](https://github.com/vicevil77/EDA_CYBERWARFARE/assets/120662253/77ad079a-a23a-44a9-a549-72c286c06c34)
 
 EL proyecto esta escrito en lenguaje python (Jupyter Lab), habiendo sido documentando con informacion de intenet y libros especificos.
 
