@@ -8,7 +8,9 @@ En este punto es importante señalar el aumento desmesurado de los ataques Ranso
 
 Ademas, se han localizado 3 zonas fuertemente afectadas tanto en origen como en destino de los ciberataques: 
 
-![image](https://github.com/vicevil77/EDA_CYBERWARFARE/assets/120662253/1b0eea64-86e9-4b1c-8ce5-e4a2e75f982b)
+![image](https://github.com/vicevil77/EDA_CYBERWARFARE/assets/120662253/b5f6436e-0ebb-44af-b7ab-6228dfd42c36)
+
+![image](https://github.com/vicevil77/EDA_CYBERWARFARE/assets/120662253/a4745d73-0cfb-48c2-a544-321a1a6d04d8)
 
 1.- Zona Antartida y alrededores, debido a que en esda zoan existen centro de investigacion con tecnologia de conexion y la existencia de excaso personal y medidas de ciberseguridad, siendo lugares estrategicos para los cibercriminales para robar información importante y ademas usar esos sistemas como puentes de ciberataques, siendo tambien posible estas localziacion por el uso de VPN, proxys o red Tor.
 2.- Zona de las islas de Georgia de Sur y Sandwich del Sur.- La población total en estas islas britanicas es de 30 personas, habiendo varios cebtros de investigación. En esta isla influyen 2 factores:
