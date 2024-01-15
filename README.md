@@ -1,3 +1,5 @@
+![image](https://github.com/vicevil77/EDA_CYBERWARFARE/assets/120662253/c093a600-dd61-4bc6-9f7a-3544d47a429c)
+
 El presente Análisis Exploratorio de Datos se centra en las zonas mas afectadas por ciberataques de tipo DDoS(Denegacion de Servicio Distribuido), Malware e intrusión a nivel mundial, existiendo un mayor numero de ataques DDoS, siendo este ultimo muy usado como amenaza en otros tipos de ciberataques (ejem: ataque Ransonware y en caso que no pague el descifrado, amenazan con hacerles ataques de este tipo)
 
 ![image](https://github.com/vicevil77/EDA_CYBERWARFARE/assets/120662253/721b8cd8-2748-4f41-bae0-ef55b37dfda8)
